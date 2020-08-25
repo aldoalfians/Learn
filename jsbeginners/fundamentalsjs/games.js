@@ -32,7 +32,7 @@ if (p == comp) {
 	//     hasil = "KALAH";
 	// }
 
-	hasil = comp == "orang" ? "MENANG" : "KALAH"; // Operatore Ternary
+	hasil = comp == "orang" ? "MENANG" : "KALAH"; // Operator Ternary
 } else if (p == "orang") {
 	// if(comp == "GAJAH") {
 	//     hasil = "KALAH";
